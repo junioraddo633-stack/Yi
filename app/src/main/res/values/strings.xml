@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nana AI</string>
+    <string name="welcome_headline">Hi, I\'m Nana AI!</string>
+    <string name="welcome_subtitle">Your friendly, clever &amp; curious companion. What would you like to explore today?</string>
+    <string name="input_placeholder">Ask Nana anything…</string>
+    <string name="send_content_description">Send message</string>
+    <string name="new_chat">New Chat</string>
+    <string name="thinking_mode_badge">Thinking Mode</string>
+    <string name="grounding_badge">Live Search</string>
+    <string name="maps_badge">Google Maps</string>
+</resources>

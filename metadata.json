@@ -1,0 +1,6 @@
+{
+  "name": "Nana AI",
+  "description": "A friendly, clever, and curious AI assistant powered by Gemini with multi-turn conversations, deep thinking mode, multimedia generation, and search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
